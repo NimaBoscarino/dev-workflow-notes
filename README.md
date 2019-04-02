@@ -49,7 +49,7 @@ print('hello!')
 
 And here is an image 🐶
 
-![](https://placedog.net/500)
+![](https://i.imgur.com/TU6iVag.jpg)
 
 
 ## TODAY'S PROBLEM:
