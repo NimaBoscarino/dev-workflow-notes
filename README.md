@@ -1,6 +1,10 @@
 # W1D2 Lecture - The Dev Workflow
 
+[The code is on GitHub!](https://github.com/NimaBoscarino/dev-workflow-notes)
+
 Note! Take a look at the "Logic, Syntax, Data" section in these notes. It's something that I didn't bring up in lecture, but is worth reading! I might bring it up in the breakout today.
+
+Here's a [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 ## Goals
 
@@ -40,6 +44,12 @@ let name = 'Kanye'
 ```python
 print('hello!')
 ```
+
+[I am a link](https://placedog.net/500)
+
+And here is an image 🐶
+
+![](https://placedog.net/500)
 
 
 ## TODAY'S PROBLEM:
